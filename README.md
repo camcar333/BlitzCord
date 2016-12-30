@@ -1,0 +1,2 @@
+# BlitzCord
+Bot for Discord
